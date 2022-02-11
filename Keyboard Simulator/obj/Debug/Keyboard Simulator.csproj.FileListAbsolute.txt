@@ -1,0 +1,36 @@
+H:\Course work\Keyboard Simulator\Keyboard Simulator\bin\Debug\Keyboard Simulator.exe.config
+H:\Course work\Keyboard Simulator\Keyboard Simulator\bin\Debug\Keyboard Simulator.exe
+H:\Course work\Keyboard Simulator\Keyboard Simulator\bin\Debug\Keyboard Simulator.pdb
+H:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard_Simulator.Properties.Resources.resources
+H:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.csproj.GenerateResource.cache
+H:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.csproj.CoreCompileInputs.cache
+H:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.exe
+H:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.pdb
+H:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard_Simulator.Simulator.resources
+H:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Interop.WMPLib.dll
+H:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.csproj.ResolveComReference.cache
+F:\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.csprojAssemblyReference.cache
+F:\Keyboard Simulator\Keyboard Simulator\obj\Debug\Interop.WMPLib.dll
+F:\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.csproj.ResolveComReference.cache
+F:\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard_Simulator.Simulator.resources
+F:\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.csproj.GenerateResource.cache
+F:\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.exe
+F:\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.pdb
+F:\Keyboard Simulator\Keyboard Simulator\bin\Debug\Keyboard Simulator.exe.config
+F:\Keyboard Simulator\Keyboard Simulator\bin\Debug\Keyboard Simulator.exe
+F:\Keyboard Simulator\Keyboard Simulator\bin\Debug\Keyboard Simulator.pdb
+F:\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard_Simulator.Properties.Resources.resources
+F:\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.csproj.CoreCompileInputs.cache
+F:\Course work\Keyboard Simulator\Keyboard Simulator\bin\Debug\Keyboard Simulator.exe.config
+F:\Course work\Keyboard Simulator\Keyboard Simulator\bin\Debug\Keyboard Simulator.exe
+F:\Course work\Keyboard Simulator\Keyboard Simulator\bin\Debug\Keyboard Simulator.pdb
+F:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.csprojAssemblyReference.cache
+F:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Interop.WMPLib.dll
+F:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.csproj.ResolveComReference.cache
+F:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard_Simulator.Properties.Resources.resources
+F:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard_Simulator.Simulator.resources
+F:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.csproj.GenerateResource.cache
+F:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.csproj.CoreCompileInputs.cache
+F:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.exe
+F:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.pdb
+H:\Course work\Keyboard Simulator\Keyboard Simulator\obj\Debug\Keyboard Simulator.csproj.AssemblyReference.cache
